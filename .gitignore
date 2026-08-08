@@ -1,0 +1,7 @@
+# Virtual environment
+venv/
+# Environment variables (sensitive data)
+.env 
+# Python bytecode cache
+**/__pycache__/
+
